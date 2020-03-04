@@ -1,0 +1,65 @@
+#menu {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 0px;
+  background-color:rgba(99, 96, 96, 0.986);
+  font-family: 'Livvic', sans-serif; }
+
+#nav {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(197, 75, 62); }
+ul {
+  margin-left: 50px; }
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  line-height: 60px; }
+
+ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  color: black;
+  padding: 0 80px;
+  display: block; }
+
+ul li a:hover {
+  color: rgb(255, 255, 255); }
+
+#stopka{
+    background-color: gray;
+    border-end-end-radius: auto;
+    height:60px;
+    float: right;
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+    text-decoration-color: gold;
+    bottom: 0;
+    position: absolute;
+}
+a:visited{
+    color: gold;
+    font-family: Arial; 
+}
+#gif{
+  margin: 50px;
+}
+#logo{
+  margin-right: 850px;
+  margin-left: 850px;
+}
+body{
+  background-color: rgba(168, 161, 161, 0.582);
+}
+#buty{
+  float: left;
+}
+#deski{
+  float: inherit;
+}
+
+
